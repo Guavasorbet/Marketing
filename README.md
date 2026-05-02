@@ -4,17 +4,9 @@
 
 # 📡  Marketing & Digital Strategy 
 
-> *Bridging complex information and human connection — at the intersection of data-driven precision and high-impact creative.*
+This repository highlights some of my work as a Director of Marketing, Digital Strategist, and Freelancer. I am passionate about the art of **technical storytelling**, combining data-driven insights with creative tools to craft narratives that resonate with target audiences and deliver measurable results.
 
----
-
-## 👤 About
-
-**Marketer & Digital Strategist**
-
-A creative strategist and digital specialist dedicated to the art of **technical storytelling**. By fusing data-driven tools with high-impact creativity, this work crafts narratives that resonate with targeted audiences and deliver measurable results.
-
-The core mission: bridge the gap between complex information and human connection to drive organizational growth.
+My core mission is to learn something new along the way, enjoy the process, enhance visibility, and foster human connections to drive organizational growth.
 
 ---
 
@@ -74,12 +66,3 @@ This repository reflects a commitment to work that **moves the needle**: every c
 └── strategy/           # Strategic plans and positioning documents
 ```
 
----
-
-## 📬 Connect
-
-Interested in collaboration, partnership, or knowledge exchange? Let's build something that matters.
-
----
-
-*Built with intention. Driven by results.*
