@@ -87,16 +87,3 @@ Theme: Professionalism & University Pride
 This repository reflects a commitment to work that **moves the needle**: every campaign, narrative, and digital touchpoint is built with intent, precision, and measurable outcomes in mind.
 
 ---
-
-## 📂 Repository Structure
-
-```
-/
-├── campaigns/          # Campaign briefs, assets, and post-mortems
-├── brand/              # Brand guidelines, voice docs, visual standards
-├── analytics/          # Performance reports and data dashboards
-├── partnerships/       # Corporate outreach templates and tracking
-├── content/            # Copy, scripts, and editorial calendar
-└── strategy/           # Strategic plans and positioning documents
-```
-
