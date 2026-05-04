@@ -49,21 +49,36 @@ Strategic digital marketing and visibility campaigns supporting organizational g
 Brand positioning and outreach strategy focused on expanding footprint on and off-campus, with direct pipelines to corporate recruitment.
 
 ---
-### A Collage of "Presenting Your Student Leaders."
+
+### A Collage of "I Presenting Your Student Leaders."
+
+In this section, I will showcase some of the marketing campaigns I led for student organizations, focusing on their semester themes, visions, mission statements, and, most importantly, their targeted audiences.
 
 <div align="center">
+  
+Org: ALPFA (Association of Latino Professionals For America    
+Theme: Taking the stage/ We are the Main Event
+
 <img width="400" height="300" alt="ALPFA-slideshow" src="https://github.com/user-attachments/assets/9873ee55-dc9b-4e3b-bfec-dd752163dd92" />
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Org: SOMIS (Student Organization of Management Information Systems   
+Theme: Silicon Valley Business Techies 
+
 <img width="400" height="300" alt="SOMIS-slideshow" src="https://github.com/user-attachments/assets/f7e4c489-b8e7-4547-be94-3ff0eda0a1b7" />
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+FMA: Financial Management Association    
+Theme: We are the Powerhouse
+
 <img width="400" height="300" alt="FMA-slideshow3" src="https://github.com/user-attachments/assets/90c7f07c-b8ee-4ff5-b67c-f0c23b38479f" />
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+PAS: Professional Accounting Society   
+Theme: Professionalism & University Pride
+
 <img width="400" height="300" alt="PAS-slideshow2" src="https://github.com/user-attachments/assets/a6c7499d-553c-4f66-8d90-9c38ee99f854" />
-  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 </div>
 
-
-
+---
 
 ## 💡 Philosophy
 
