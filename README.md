@@ -50,7 +50,7 @@ Brand positioning and outreach strategy focused on expanding footprint on and of
 
 ---
 
-### A Collage of "I Presenting Your Student Leaders."
+### A Collage of "I Present Your Student Leaders."
 
 In this section, I will showcase some of the marketing campaigns I led for student organizations, focusing on their semester themes, visions, mission statements, and, most importantly, their targeted audiences.
 
