@@ -49,17 +49,18 @@ Strategic digital marketing and visibility campaigns supporting organizational g
 Brand positioning and outreach strategy focused on expanding footprint on and off-campus, with direct pipelines to corporate recruitment.
 
 ---
-Presenting the student leaders!
+### A Collage of "Presenting Your Student Leaders."
 
-
+<div align="center">
 <img width="400" height="300" alt="ALPFA-slideshow" src="https://github.com/user-attachments/assets/9873ee55-dc9b-4e3b-bfec-dd752163dd92" />
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 <img width="400" height="300" alt="SOMIS-slideshow" src="https://github.com/user-attachments/assets/f7e4c489-b8e7-4547-be94-3ff0eda0a1b7" />
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 <img width="400" height="300" alt="FMA-slideshow3" src="https://github.com/user-attachments/assets/90c7f07c-b8ee-4ff5-b67c-f0c23b38479f" />
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 <img width="400" height="300" alt="PAS-slideshow2" src="https://github.com/user-attachments/assets/a6c7499d-553c-4f66-8d90-9c38ee99f854" />
-
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+</div>
 
 
 
