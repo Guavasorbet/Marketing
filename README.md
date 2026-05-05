@@ -89,3 +89,5 @@ Theme: Professionalism & University Pride
 This repository reflects a commitment to work that **moves the needle**: every campaign, narrative, and digital touchpoint is built with intent, precision, and measurable outcomes in mind.
 
 ---
+
+<img width="1000" height="300" alt="in the office" src="https://github.com/user-attachments/assets/6690d497-1d7a-43f0-9135-7691d50d7c56" />
