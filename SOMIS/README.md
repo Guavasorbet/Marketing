@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SOMIS HEADER -->
-<img width="300" alt="SOMIS Logo" src="https://github.com/user-attachments/assets/f7e4c489-b8e7-4547-be94-3ff0eda0a1b7" />
+<img width="160" height="147" alt="image" src="https://github.com/user-attachments/assets/47576a14-d439-49f4-be5c-5a5c816b6669" />
 
 # SOMIS — Student Organization of Management Information Systems
 ### University of Houston – Downtown · Marilyn Davies College of Business
@@ -125,9 +125,12 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 **Why it mattered:** These presentations drove engagement, membership retention, and word-of-mouth. Students who attended told others. The interactive format also demonstrated SOMIS's technical capabilities to both members and prospective corporate partners who sat in on sessions.
 
 <div align="center">
-<img width="700" alt="SOMIS Presentation Segment 1 — Retro TV Intro" src="somis_presentation-1_frame.gif" />
-<img width="700" alt="SOMIS Presentation Segment 2 — Marketing Responsibilities" src="somis_presentation-2_frame.gif" />
-<img width="700" alt="SOMIS Presentation Segment 3 — 2025 Goals" src="somis_presentation-3_frame.gif" />
+  
+<img width="500" height="284" alt="somis presentation-1 frame" src="https://github.com/user-attachments/assets/15012e4f-6e81-44f9-99bc-4b47c1b2f8e6" />
+
+<img width="500" height="284" alt="somis presentation-2 frame" src="https://github.com/user-attachments/assets/d1c768bd-42b7-49fb-9eb9-e599bc5c8a25" />
+
+<img width="500" height="284" alt="somis presentation-3 frame" src="https://github.com/user-attachments/assets/4c4bae15-4395-4b29-a9fc-e3a024a97190" />
 </div>
 
 ---
@@ -141,8 +144,10 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 **Why it mattered:** This photo became the face of SOMIS leadership across all platforms. It set the tone for how the org carried itself publicly and gave prospective members and corporate partners a visual anchor for who was running things.
 
 <div align="center">
-<img width="700" alt="SOMIS Founding Leadership Team" src="SOMIS-leadership.jpg" />
+
+<img width="500" alt="SOMIS Logo" src="https://github.com/user-attachments/assets/f7e4c489-b8e7-4547-be94-3ff0eda0a1b7" />
 </div>
+
 
 ---
 
@@ -155,8 +160,10 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 **Why it mattered:** The turnout at the first general meeting validated the entire marketing approach and gave SOMIS the social proof it needed to build from. A packed room in Semester 1 became the foundation for everything else — membership growth, corporate interest, and the eventual Student Org of the Year nomination.
 
 <div align="center">
-<img width="500" alt="SOMIS First General Meeting Flyer" src="Somis_1st_general_meeting__1_.png" />
-<img width="700" alt="SOMIS First General Meeting — The Room" src="SOMIS-general-meeting-01.jpg" />
+  
+<img width="500"  alt="Somis 1st general meeting (1)" src="https://github.com/user-attachments/assets/e6c2a514-af2b-4d91-a0c3-bb19af150bcf" />
+<img width="500"  alt="SOMIS-general-meeting-01" src="https://github.com/user-attachments/assets/e4636bac-50dc-42a7-b372-4daf38afdad2" />
+
 </div>
 
 ---
@@ -178,13 +185,20 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 **Why it mattered:** Consistent, high-quality flyer campaigns across the semester trained the campus audience to expect quality from SOMIS content and to pay attention when a new post dropped. It built the visual brand recognition that made corporate partners take the org seriously from the outside.
 
 <div align="center">
-<img width="440" alt="2nd General Meeting Flyer" src="2nd_General_meeting_Flyer.png" />  <img width="440" alt="Ansys Company Connections Flyer" src="Ansys-Flyer.png" />
+<img width="250"  alt="2nd General meeting Flyer" src="https://github.com/user-attachments/assets/2153da83-33b5-44d1-ab88-831c4b61e545" />
 
-<img width="440" alt="AI Workshop Flyer" src="SOMIS-AI-workshop-flyer_png.PNG" />  <img width="440" alt="Guest Speaker Workshop Flyer" src="SOMIS-guest-speaker-workshop-flyer.png" />
+<img width="250"  alt="Ansys-Flyer" src="https://github.com/user-attachments/assets/723b9161-ce76-4ad8-8272-38a75c1df81a" />
 
-<img width="440" alt="November Calendar Flyer" src="SOMIS-events-november-calendar-flyer.png" />  <img width="440" alt="Volunteering Event Flyer" src="SOMIS-volunteering-event-flyer.png" />
+<img width="250"  alt="SOMIS-AI-workshop-flyer png" src="https://github.com/user-attachments/assets/7f48a077-b2ce-4040-bffa-408af08dd146" />
 
-<img width="440" alt="Stoles Flyer" src="Stoles_Flyer_zip_-_3.PNG" />
+<img width="250"  alt="SOMIS-guest-speaker-workshop-flyer" src="https://github.com/user-attachments/assets/285542a9-922f-478f-9730-fac78390ad62" />
+
+<img width="250"  alt="SOMIS-volunteering-event-flyer" src="https://github.com/user-attachments/assets/9cb3b728-4d1c-46ec-b112-60d7e313e5bd" />
+
+<img width="250"  alt="SOMIS-events-november-calendar-flyer" src="https://github.com/user-attachments/assets/56985913-76eb-41ea-b7a4-0c7f8b7210ec" />
+
+<img width="250"  alt="Stoles Flyer zip - 3" src="https://github.com/user-attachments/assets/a295140c-f9db-4766-b79a-dd5b859a65dd" />
+
 </div>
 
 ---
@@ -202,23 +216,27 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 **Microsoft Houston Office Visit**
 *SOMIS members at the Microsoft Houston campus — one of the flagship corporate visits of Semester 1. Documented and published across both platforms to build credibility and signal to future partners that SOMIS was the real deal.*
 
-<img width="700" alt="Microsoft Office Visit" src="Microsoft-office-visit-01.gif" />
-<img width="700" alt="Microsoft Office Visit 2" src="Microsoft-office-visit-02.gif" />
 
-<img width="700" alt="Microsoft Visit Group Photo" src="Microsoft-03.jpg" />
-<img width="700" alt="Microsoft Visit Interior" src="Microsoft-01.JPEG" />
+<img width="500"  alt="Microsoft-01" src="https://github.com/user-attachments/assets/e4c1c512-6a4a-4158-8809-48dfcc040fe1" />
+
+<img width="208" height="370" alt="Untitled (1)" src="https://github.com/user-attachments/assets/34b47e67-092e-4bf9-96a6-159719bf6596" />
+<img width="208" height="370" alt="Untitled (3)" src="https://github.com/user-attachments/assets/45b92970-5b98-4375-883e-968dcc86e355" />
+
+
 
 **Protiviti**
 *Professional services firm engagement — connecting MIS students directly to consulting career pathways and giving SOMIS a presence in Houston's professional services sector in its very first semester.*
 
-<img width="700" alt="Protiviti Event" src="Protiviti-01.JPEG" />
-<img width="700" alt="Protiviti Event 2" src="Protiviti-02.JPEG" />
+
+<img width="500"  alt="Protiviti-01" src="https://github.com/user-attachments/assets/9f03e9fa-4ec6-4f40-8918-13a08d7a7c6c" />
+<img width="500"  alt="Protiviti-02" src="https://github.com/user-attachments/assets/8374cfda-396f-4c4f-a2b2-1b769f690419" />
+
 
 **Dell**
-*Dell Houston office visit — expanding the corporate partnership portfolio and giving members direct access to one of the world's leading technology companies, all within Semester 1.*
+*Dell University visit — expanding the corporate partnership portfolio and giving members direct access to one of the world's leading technology companies, all within Semester 1.*
 
-<img width="700" alt="Dell Corporate Visit" src="DELL-01.jpg" />
 
+<img width="2048" height="1365" alt="DELL-01" src="https://github.com/user-attachments/assets/e48155fb-7d3e-453d-9f43-6169dbe41d4a" />
 </div>
 
 ---
