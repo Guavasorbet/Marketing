@@ -161,7 +161,7 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 
 <div align="center">
   
-<img width="500"  alt="Somis 1st general meeting (1)" src="https://github.com/user-attachments/assets/e6c2a514-af2b-4d91-a0c3-bb19af150bcf" />
+<img width="500" height="400" alt="Somis 1st general meeting (1)" src="https://github.com/user-attachments/assets/e6c2a514-af2b-4d91-a0c3-bb19af150bcf" />
 <img width="500"  alt="SOMIS-general-meeting-01" src="https://github.com/user-attachments/assets/e4636bac-50dc-42a7-b372-4daf38afdad2" />
 
 </div>
@@ -236,7 +236,7 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 *Dell University visit — expanding the corporate partnership portfolio and giving members direct access to one of the world's leading technology companies, all within Semester 1.*
 
 
-<img width="2048" height="1365" alt="DELL-01" src="https://github.com/user-attachments/assets/e48155fb-7d3e-453d-9f43-6169dbe41d4a" />
+<img width="500"  alt="DELL-01" src="https://github.com/user-attachments/assets/e48155fb-7d3e-453d-9f43-6169dbe41d4a" />
 </div>
 
 ---
@@ -250,7 +250,9 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 **Why it mattered:** Reaching 210+ Instagram followers and 200+ LinkedIn followers in a single semester — starting from zero — is a measurable proof of concept for the marketing strategy as a whole. These weren't vanity numbers; they represented real students, real professionals, and real corporate contacts who chose to stay connected to what SOMIS was building. The platforms now continue to grow beyond the founding team's tenure, which is the real mark of a sustainable marketing system.
 
 <div align="center">
-<img width="360" alt="SOMIS Instagram Profile — @uhd.somis" src="SOMIS-Instagram.jpg" />  <img width="360" alt="SOMIS LinkedIn Profile — UHD SOMIS" src="SOMIS-LinkedIn.jpg" />
+  
+<img width="280" height="420" alt="SOMIS-LinkedIn" src="https://github.com/user-attachments/assets/0d2d8ba4-0559-4739-b429-be73c9dfa227" /> 
+<img width="280" height="420" alt="SOMIS-Instagram" src="https://github.com/user-attachments/assets/88d9a692-8920-4bd6-b57f-d51e92ace27b" />
 </div>
 
 ---
