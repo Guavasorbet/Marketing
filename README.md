@@ -38,7 +38,7 @@ Strategically positioned initiatives to attract **Fortune 500 attention**, resul
 
 ## 🏆 Featured Student Organizations
 
-### SOMIS
+### [SOMIS](./SOMIS/README.md)
 *Founding Director of Marketing*
 
 Built the marketing department from the ground up for a brand-new student organization. Led a team of 3 across all platforms — Instagram, LinkedIn, and Campus Groups — driving brand identity, corporate partnerships, and a campus-wide presence from day one.
