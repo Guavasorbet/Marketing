@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=98FF98&center=true&vCenter=true&width=700&lines=Guava+Sorbet" alt="Typing SVG" />
+
 <img width="800" height="400" alt="guava sorbet ideas (1)" src="https://github.com/user-attachments/assets/24500e77-57ed-4edd-bc13-bab12dea7124" />
 </div>
 
