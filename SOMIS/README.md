@@ -101,17 +101,34 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 
 ---
 
-#### 🎬 The SOMIS Brand Reel
+#### 👥 Leadership & Branding — The Silicon Valley Theme
 
-**The strategic problem:** A brand-new organization with no visual identity, no social proof, and no campus presence needs to earn attention fast. Text posts and static flyers alone don't create momentum — video does.
+**The strategic problem:** A founding officer team needs to project authority and cohesion before the organization has earned it through track record. The brand has to do the work that history hasn't had time to build yet.
 
-**The process:** We conceived, shot, and edited a brand reel from scratch to serve as SOMIS's first impression on both Instagram and LinkedIn. The reel was intentionally built to do three things simultaneously: establish the visual identity (color, motion, energy), communicate the org's professional-yet-youthful tone, and drive profile follows by giving people something worth sharing. Every frame was planned — this was not a casual recording, it was a directed creative production executed by a student team with no production budget, using available tools and resourcefulness.
+**The process:** As Director of Marketing, I conceptualized and directed the founding officer photoshoot as a deliberate brand-building exercise. The semester theme — *Silicon Valley Business Techies* — needed to be visible and felt, not just described. We chose a striking architectural location, styled around contrast (dark vs. light, structured vs. relaxed), and executed a shoot that positioned the team as confident, unified, and forward-looking. Every detail — the poses, the styling, the backdrop — was chosen to reinforce a brand identity that said: *this organization means business.*
 
-**Why it mattered:** In a competitive student org landscape, the organizations that look like they have their act together attract the members, the partners, and the attention. The reel signaled from day one that SOMIS operated at a different level.
+**Why it mattered:** This photo became the face of SOMIS leadership across all platforms. It set the tone for how the org carried itself publicly and gave prospective members and corporate partners a visual anchor for who was running things.
 
 <div align="center">
-<img width="700" alt="SOMIS Brand Reel Part 1" src="SOMIS-Reel-01.gif" />
-<img width="700" alt="SOMIS Brand Reel Part 2" src="SOMIS-Reel-02.gif" />
+
+<img width="500" alt="SOMIS Logo" src="https://github.com/user-attachments/assets/f7e4c489-b8e7-4547-be94-3ff0eda0a1b7" />
+</div>
+
+---
+
+#### 🚀 Launch Campaign — First General Meeting
+
+**The strategic problem:** Your first general meeting is your most important marketing moment of the semester. It sets the attendance baseline, the energy standard, and the word-of-mouth trajectory for everything that follows. With zero existing audience, we had to generate curiosity and urgency entirely from scratch.
+
+**The process:** The First General Meeting flyer was designed to stand out in a campus environment saturated with generic event posters. We leaned into the tech aesthetic — dark background, glowing network globe, cinematic typography — to signal that this wasn't a typical student org. The flyer was distributed digitally across Campus Groups, Instagram stories, and direct outreach, with a QR code for easy Zoom access to lower the barrier to attendance. The campaign treated the meeting itself as a product launch — not just an informational session.
+
+**Why it mattered:** The turnout at the first general meeting validated the entire marketing approach and gave SOMIS the social proof it needed to build from. A packed room in Semester 1 became the foundation for everything else — membership growth, corporate interest, and the eventual Student Org of the Year nomination.
+
+<div align="center">
+  
+<img width="500" height="400" alt="Somis 1st general meeting (1)" src="https://github.com/user-attachments/assets/e6c2a514-af2b-4d91-a0c3-bb19af150bcf" />
+<img width="500"  alt="SOMIS-general-meeting-01" src="https://github.com/user-attachments/assets/e4636bac-50dc-42a7-b372-4daf38afdad2" />
+
 </div>
 
 ---
@@ -131,39 +148,6 @@ Used **GroupMe** for rapid coordination with other SOMIS leadership teams and **
 <img width="500" height="284" alt="somis presentation-2 frame" src="https://github.com/user-attachments/assets/d1c768bd-42b7-49fb-9eb9-e599bc5c8a25" />
 
 <img width="500" height="284" alt="somis presentation-3 frame" src="https://github.com/user-attachments/assets/4c4bae15-4395-4b29-a9fc-e3a024a97190" />
-</div>
-
----
-
-#### 👥 Leadership & Branding — The Silicon Valley Theme
-
-**The strategic problem:** A founding officer team needs to project authority and cohesion before the organization has earned it through track record. The brand has to do the work that history hasn't had time to build yet.
-
-**The process:** As Director of Marketing, I conceptualized and directed the founding officer photoshoot as a deliberate brand-building exercise. The semester theme — *Silicon Valley Business Techies* — needed to be visible and felt, not just described. We chose a striking architectural location, styled around contrast (dark vs. light, structured vs. relaxed), and executed a shoot that positioned the team as confident, unified, and forward-looking. Every detail — the poses, the styling, the backdrop — was chosen to reinforce a brand identity that said: *this organization means business.*
-
-**Why it mattered:** This photo became the face of SOMIS leadership across all platforms. It set the tone for how the org carried itself publicly and gave prospective members and corporate partners a visual anchor for who was running things.
-
-<div align="center">
-
-<img width="500" alt="SOMIS Logo" src="https://github.com/user-attachments/assets/f7e4c489-b8e7-4547-be94-3ff0eda0a1b7" />
-</div>
-
-
----
-
-#### 🚀 Launch Campaign — First General Meeting
-
-**The strategic problem:** Your first general meeting is your most important marketing moment of the semester. It sets the attendance baseline, the energy standard, and the word-of-mouth trajectory for everything that follows. With zero existing audience, we had to generate curiosity and urgency entirely from scratch.
-
-**The process:** The First General Meeting flyer was designed to stand out in a campus environment saturated with generic event posters. We leaned into the tech aesthetic — dark background, glowing network globe, cinematic typography — to signal that this wasn't a typical student org. The flyer was distributed digitally across Campus Groups, Instagram stories, and direct outreach, with a QR code for easy Zoom access to lower the barrier to attendance. The campaign treated the meeting itself as a product launch — not just an informational session.
-
-**Why it mattered:** The turnout at the first general meeting validated the entire marketing approach and gave SOMIS the social proof it needed to build from. A packed room in Semester 1 became the foundation for everything else — membership growth, corporate interest, and the eventual Student Org of the Year nomination.
-
-<div align="center">
-  
-<img width="500" height="400" alt="Somis 1st general meeting (1)" src="https://github.com/user-attachments/assets/e6c2a514-af2b-4d91-a0c3-bb19af150bcf" />
-<img width="500"  alt="SOMIS-general-meeting-01" src="https://github.com/user-attachments/assets/e4636bac-50dc-42a7-b372-4daf38afdad2" />
-
 </div>
 
 ---
