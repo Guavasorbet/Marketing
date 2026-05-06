@@ -46,7 +46,7 @@ Strategically positioned initiatives to attract **Fortune 500 attention**, resul
 Built the marketing department from the ground up for a brand-new student organization. Led a team of 3 across all platforms — Instagram, LinkedIn, and Campus Groups — driving brand identity, corporate partnerships, and a campus-wide presence from day one.
 
 ### ALPFA
-* Digital Content Creator, Photographer*
+*Digital Content Creator, Photographer*
 
 Brand positioning and outreach strategy focused on expanding footprint on and off-campus, with direct pipelines to corporate recruitment.
 
